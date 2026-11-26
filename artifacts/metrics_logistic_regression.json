@@ -1,0 +1,9 @@
+{
+  "model": "Logistic Regression",
+  "Accuracy": 0.7945,
+  "AUC": 0.8431,
+  "Precision": 0.6798,
+  "Recall": 0.4663,
+  "F1": 0.5532,
+  "MCC": 0.4385
+}
