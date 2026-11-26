@@ -28,7 +28,7 @@ Hotels lose money when people cancel their bookings, especially at the last minu
 The imputers, encoder and scaler are fitted only on the training data and then used on the test data, so no test information leaks into training.
 
 ## GitHub Repository Link
-`<PASTE YOUR REPO LINK HERE>`
+https://github.com/2026ct05084-del/Assignment-_2_Ml
 
 ### How to run
 ```bash
