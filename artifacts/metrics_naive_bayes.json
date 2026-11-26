@@ -1,0 +1,9 @@
+{
+  "model": "Naive Bayes",
+  "Accuracy": 0.7393,
+  "AUC": 0.7435,
+  "Precision": 0.6939,
+  "Recall": 0.0787,
+  "F1": 0.1414,
+  "MCC": 0.169
+}
