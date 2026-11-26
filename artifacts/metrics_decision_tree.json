@@ -1,0 +1,9 @@
+{
+  "model": "Decision Tree",
+  "Accuracy": 0.7636,
+  "AUC": 0.8755,
+  "Precision": 0.5428,
+  "Recall": 0.8441,
+  "F1": 0.6607,
+  "MCC": 0.5204
+}
