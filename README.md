@@ -86,5 +86,4 @@ Precision, Recall and F1 are reported for the positive class (canceled = 1).
 ### Overall Winner
 **Random Forest (Ensemble)**, because it got the best scores on Accuracy, AUC, F1 and MCC. It catches most of the cancellations without too many wrong alarms.
 
-## BITS Virtual Lab Execution
-`<ATTACH SCREENSHOT HERE>`
+
