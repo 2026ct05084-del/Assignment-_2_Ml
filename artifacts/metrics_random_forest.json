@@ -1,0 +1,9 @@
+{
+  "model": "Random Forest (Ensemble)",
+  "Accuracy": 0.8061,
+  "AUC": 0.8956,
+  "Precision": 0.6066,
+  "Recall": 0.822,
+  "F1": 0.6981,
+  "MCC": 0.574
+}
